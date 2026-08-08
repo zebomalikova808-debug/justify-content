@@ -1,0 +1,99 @@
+body{
+    background-color: grey;
+}
+.child1{
+    background-color: pink;
+    border-radius: 20px;
+    width: 50px;
+    height: 80px;
+    
+}
+.parent1{
+    padding: 5px;
+    background-color: black;
+    display: flex;
+    gap: 10px;
+    width:  400px;
+    border-radius: 20px;
+    border: 5px solid pink;
+}
+.parent2{
+    padding: 5px;
+    background-color: black;
+    display: flex;
+    gap: 10px;
+    width:  400px;
+    border-radius: 20px;
+    border: 5px solid pink;
+    justify-content: flex-end;
+}
+.child2{
+    background-color: pink;
+    border-radius: 20px;
+    width: 50px;
+    height: 80px;
+}
+.child3{
+    background-color: pink;
+    border-radius: 20px;
+    width: 50px;
+    height: 80px;
+}
+.parent3{
+    padding: 5px;
+    background-color: black;
+    display: flex;
+    gap: 10px;
+    width:  400px;
+    border-radius: 20px;
+    border: 5px solid pink;
+    justify-content: center;
+}
+.parent4{
+    background-color: black;
+    display: flex;
+    gap: 10px;
+    width:  400px;
+    border-radius: 20px;
+    border: 5px solid pink;
+    justify-content: space-between
+}
+.child4{
+    background-color: pink;
+    border-radius: 20px;
+    width: 50px;
+    height: 80px;
+}
+.parent5{
+    background-color: black;
+    display: flex;
+    gap: 10px;
+    width:  400px;
+    border-radius: 20px;
+    border: 5px solid pink;
+    justify-content: space-around;
+}
+.child5{
+    background-color: pink;
+    border-radius: 20px;
+    width: 50px;
+    height: 80px;
+}
+.child6{
+    background-color: pink;
+    border-radius: 20px;
+    width: 50px;
+    height: 80px;
+}
+.parent6{
+    background-color: black;
+    display: flex;
+    gap: 10px;
+    width:  400px;
+    border-radius: 20px;
+    border: 5px solid pink;
+    justify-content: space-evenly;
+}
+h1{
+    color: pink;
+}
